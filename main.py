@@ -13,7 +13,7 @@ from embeddings import TfidfEmbeddings
 
 load_dotenv()
 
-st.title("CoolBot: News Research Tool 📈")
+st.title("News Research Tool 📈")
 st.sidebar.title("News Article URLs")
 
 urls = []
